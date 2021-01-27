@@ -45,7 +45,6 @@ public class Main {
 //        for (int i = 0; i < size; i++) {
 //            arr[i] = (float)(arr[i] * Math.sin(0.2f + i / 5) * Math.cos(0.2f + i / 5) * Math.cos(0.4f + i / 2));
 //        }
-//
 //        Для второго метода замеряете время разбивки массива на 2, просчета каждого из двух массивов и склейки.
         float[] oneFloatArray = new float[size];
         float[] multyFloatArray = new float[size];
